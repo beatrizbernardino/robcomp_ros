@@ -1,4 +1,4 @@
-# robcomp_ros
+# ROS
 
 Exercícios feitos com o objetivo de entender melhor sobre o uso da ferramenta ROS e sobre visão computacional
 
